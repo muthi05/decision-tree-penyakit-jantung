@@ -1,0 +1,2 @@
+# decision-tree-penyakit-jantung
+TUGAS MATA KULIAH KECERDASAN BUATAN KELOMPOK IRIS (AMELIA&amp;MUTHI)
